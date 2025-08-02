@@ -6,3 +6,6 @@ Includes project developed during CODSOFT Internship
 
 ## 🚀 Landing Page
 - [Live Demo](https://shaqib-7.github.io/CODSOFT/LANDING_PAGE/)
+
+## First Personal Portfolio
+- [Live Demo](https://shaqib-7.github.io/CODSOFT/PORTFOLIO/)
