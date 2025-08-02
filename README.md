@@ -1,5 +1,5 @@
 # CODSOFT
-Includes project developed during CODSOFT Internship
+This Repository includes project developed during CODSOFT Web Development Internship
 
 ## 🧮 Calculator
 - [Live Demo](https://shaqib-7.github.io/CODSOFT/CALCULATOR/)
